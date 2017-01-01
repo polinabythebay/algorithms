@@ -34,7 +34,7 @@ This repo is dedicated not just to solving canonical computer science algorithms
 
 > "an algorithm is any well-defined computational procedure that takes some value, or set of values, as input and produces some value, or set of values as output." - CLRS
 
-Some algorithms are untuitive and already a part of how we reason about things. However, it's valuable to study more complex algorithms because it leads to having building blocks for efficient/better problem solving. It's also valuable because we as programmers are resource constrained and efficient run time/space time algorithms can save companies a lot of money and it also allows us to some problems that would take forever to solve if it was done inefficiently. 
+Some algorithms are intuitive and already a part of how we reason about things. However, it's valuable to study more complex algorithms because it leads to having building blocks for efficient/better problem solving. It's also valuable because we as programmers are resource constrained and efficient run time/space time algorithms can save companies a lot of money and it also allows us to some problems that would take forever to solve if it was done inefficiently. 
 
 Chances are good that the problem you are trying to solve is similar to another problem in some respects that has already been solved by a particular algorithm class. By developing a good understanding of a large range of algorithms, you will be able to choose the right one for a problem and apply it properly.
 
