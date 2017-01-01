@@ -2,7 +2,7 @@
 
 This repo is dedicated not just to solving canonical computer science algorithms, but to understand: 
 
-1. why these algorithms are important
+1. why these algorithms are important, what are they trying to solve
 1. various ways you can implement them across the following dimensions
   - programming languages
   - data structure choice
